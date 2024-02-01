@@ -73,7 +73,7 @@ $ git branch -d <branch-name>
 # Add a Remote
 $ git remote add <remote-name> <remote-url>
 
-# Fetch Changes
+# Fetch Changes (pull and merge)
 $ git fetch <remote-name>
 
 # Pull Changes (Fetch from and integrate with another repository or a local branch)

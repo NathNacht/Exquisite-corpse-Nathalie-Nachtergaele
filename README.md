@@ -69,3 +69,59 @@ git push
 ```
 =======
 
+
+My repository cheat sheet
+
+git clone: Clone a repository into a new directory.
+git clone <repository_url>
+
+git init: Initialize a new Git repository
+git init
+
+
+git add: Add changes in the working directory to the staging area.
+git add <file>
+
+
+git commit: Record changes in the repository.
+git commit -m "Commit message"
+
+
+git push: Update remote repository with local changes.
+git push <remote> <branch>
+
+
+git pull: Fetch from and integrate with another repository or a local branch.
+git pull <remote> <branch>
+
+
+git status: Show the status of changes as untracked, modified, or staged.
+git status
+
+
+git log: Display the commit history.
+git log
+
+
+git branch: List, create, or delete branches.
+git branch
+git branch <branch_name>
+git branch -d <branch_name>
+
+
+git checkout: Switch branches or restore working tree files.
+git checkout <branch_name>
+git checkout -b <new_branch_name>
+
+
+git merge: Join two or more development histories together.
+git merge <branch_name>
+
+
+git remote: Manage set of tracked repositories.
+git remote -v
+git remote add <remote_name> <repository_url>
+
+
+git fetch: Download objects and refs from another repository.
+git fetch <remote>

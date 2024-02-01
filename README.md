@@ -154,3 +154,7 @@ $ git --help
 # Display the commit history
 $ git log
 ```
+
+## Git Workflow
+
+![git workflow](/images/gitworkflow.jpg)

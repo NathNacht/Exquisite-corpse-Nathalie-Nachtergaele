@@ -154,3 +154,4 @@ $ git --help
 # Display the commit history
 $ git log
 ```
+Signed by gerrit
